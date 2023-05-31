@@ -20,9 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeexiong17&show_icons=true&locale=en&layout=compact" alt="yeexiong17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeexiong17&" alt="yeexiong17" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeexiong17" alt="yeexiong17" /></a> </p>
 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeexiong17&" alt="yeexiong17" /></p>
