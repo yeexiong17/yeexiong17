@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yee Xiong</h1>
 <h3 align="center">A passionate web developer who likes music</h3>
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yeexiong17](https://github.com/yeexiong17)
 
