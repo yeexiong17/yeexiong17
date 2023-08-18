@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yeexiong17](https://github.com/yeexiong17)
+- 👨‍💻 All of my projects are available at [https://github.com/yeexiong17?tab=repositories](https://github.com/yeexiong17?tab=repositories)
 
 - 📫 How to reach me **wyeexiong17@gmail.com**
 
